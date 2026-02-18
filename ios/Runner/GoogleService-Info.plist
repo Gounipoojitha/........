@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBcL8EYVk1jJGEyYdF2cmqjvH1EnehVI8Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>625002878974</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.poojitha.healthmonitorapp</string>
+	<key>PROJECT_ID</key>
+	<string>healthmonitorapp-54b46</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthmonitorapp-54b46.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:625002878974:ios:ecd7c2995fa70a3d9592af</string>
+</dict>
+</plist>
